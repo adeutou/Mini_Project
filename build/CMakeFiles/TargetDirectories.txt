@@ -1,0 +1,3 @@
+/home/student/Tuto4Plugin/build/CMakeFiles/rebuild_cache.dir
+/home/student/Tuto4Plugin/build/CMakeFiles/welcome_message.dir
+/home/student/Tuto4Plugin/build/CMakeFiles/edit_cache.dir

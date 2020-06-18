@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<sdf version="1.4">
+  <world name="default">
+    <plugin name="my_world" filename="Tuto4Plugin/build/libwelcome_message.so"/>
+  </world>
+</sdf>
